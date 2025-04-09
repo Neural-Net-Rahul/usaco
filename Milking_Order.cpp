@@ -5,6 +5,8 @@ Problem 2. Milking Order
 
 https://usaco.org/index.php?page=viewproblem2&cpid=832
 
+TC : O(N^2)
+
 */
 #include <bits/stdc++.h>
 
